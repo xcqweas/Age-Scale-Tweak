@@ -1,0 +1,9 @@
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Assemblies\AgeScale.dll
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Assemblies\AgeScale.pdb
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.csproj.AssemblyReference.cache
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.GeneratedMSBuildEditorConfig.editorconfig
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.AssemblyInfoInputs.cache
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.AssemblyInfo.cs
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.csproj.CoreCompileInputs.cache
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.dll
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.pdb

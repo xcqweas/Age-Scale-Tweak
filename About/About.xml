@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Age Scaling</name>
+    <author>xcqweas</author>
+    <packageId>xcqweas.AgeScaling</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+        </li>
+    </modDependencies>
+    <description>Scales fertility, birth health, and romance age penalties using race adult age and life expectancy instead of fixed human age assumptions.</description>
+</ModMetaData>
