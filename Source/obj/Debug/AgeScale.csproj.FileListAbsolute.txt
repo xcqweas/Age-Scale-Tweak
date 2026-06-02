@@ -7,3 +7,4 @@ d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScal
 d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.csproj.CoreCompileInputs.cache
 d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.dll
 d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.pdb
+d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Debug\AgeScale.sourcelink.json

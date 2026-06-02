@@ -9,3 +9,8 @@ d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Release\AgeSc
 d:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Release\AgeScale.pdb
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked\AgeScale.dll
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked\AgeScale.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\obj\Release\AgeScale.sourcelink.json
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked_20260530_003908\AgeScale.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked_20260530_003908\AgeScale.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked_20260530_010353\AgeScale.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgePatch\Source\bin\ReleaseUnlocked_20260530_010353\AgeScale.pdb

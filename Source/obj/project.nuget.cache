@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jqvle5PD89c=",
+  "dgSpecHash": "xt7yo3ayvwk=",
   "success": true,
-  "projectFilePath": "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
+  "projectFilePath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xcqwe\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\xcqwe\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"

@@ -4,21 +4,18 @@ using Verse;
 
 namespace LifeStageAgeScaling.Patches
 {
-    [HarmonyPatch(typeof(Pawn_RelationsTracker), "SecondaryRomanceChanceFactor")]
-    public static class RomanceChance_Patch
+    [HarmonyPatch(typeof(Pawn_RelationsTracker), "LovinAgeFactor")]
+    public static class LovinAgeFactor_Patch
     {
-        static void Postfix(Pawn ___pawn, Pawn otherPawn, ref float __result)
+        [HarmonyPriority(Priority.Last)]
+        static void Postfix(Pawn ___pawn, Pawn __0, ref float __result)
         {
-            if (___pawn == null || otherPawn == null)
+            if (___pawn == null || __0 == null)
                 return;
 
-            float factor = AgeScaleUtility.RomanceAgeCompatibility(___pawn, otherPawn);
+            __result = AgeScaleUtility.RomanceAgeCompatibility(___pawn, __0);
 
-            // Option A: replace only if vanilla age penalty is too harsh.
-            __result = factor;
-
-            // Option B: softer, preserves vanilla non-age logic if the method includes more than age.
-            // __result *= factor;
+            Log.Message($"[AgeScale] LovinAgeFactor patched {___pawn.LabelShortCap} -> {__0.LabelShortCap} = {__result:F3}");
         }
     }
 }

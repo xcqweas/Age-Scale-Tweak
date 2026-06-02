@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj": {}
+    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj": {}
   },
   "projects": {
-    "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj": {
+    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
+        "projectUniqueName": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
         "projectName": "AgeScale",
-        "projectPath": "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
+        "projectPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\AgeScale.csproj",
         "packagesPath": "C:\\Users\\xcqwe\\.nuget\\packages\\",
-        "outputPath": "d:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\obj\\",
+        "outputPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgePatch\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xcqwe\\AppData\\Roaming\\NuGet\\NuGet.Config"
